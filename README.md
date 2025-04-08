@@ -4,8 +4,8 @@ My full name is Rizky Adi Saputra, and I am based in Jakarta, Indonesia. I’m a
 
 ### 🔥 What I'm working on  
 - Building web applications using **MERN Stack**    
-- Now learning more about **server management**
 - WordPress Website Customization with page builder (Elementor/Brick Builder)
+- Now learning more about **server management**
 
 ### 🚀 Tech Stack  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -21,8 +21,6 @@ My full name is Rizky Adi Saputra, and I am based in Jakarta, Indonesia. I’m a
 - Instagram: [@kikytongky](#)  
 - GitHub: [@kikytongky](#)
 - Email: [tongkytongky07@gmail.com](#)
-
-### 💼 Open for Freelance Work! Feel free to contact me!
 
 <!---
 kikitongky/kikitongky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
