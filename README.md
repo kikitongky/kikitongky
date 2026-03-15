@@ -69,12 +69,12 @@ Core principle I code by:
 
 - 🔨 Building **Sastra-Metrik** — indie, bootstrapped
 - 🌏 Open for **freelance projects** — AI integration, SaaS, billing systems
-- 📍 Depok, Indonesia · UTC+7
+- 📍 Jakarta, Indonesia · UTC+7
 
 ---
 
 ## 📫 Reach Me
 
 - 🌐 [sastrametrik.site](https://sastrametrik.site)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01792e3aa9d34db86e)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01792e3aa9d34db86e?mp_source=share)
 - 📧 [tongkytongky07@gmail.com]
