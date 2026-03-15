@@ -1,28 +1,80 @@
-# Hi, I'm Tongky! 👋  
+# Hi, I'm Rizky 👋
 
-My full name is Rizky Adi Saputra, and I am based in Jakarta, Indonesia. I’m a **Full-Stack JavaScript Developer** focusing on web development.
+I build production-grade SaaS — from architecture to deployment.
 
-### 🔥 What I'm working on  
-- Building web applications using **MERN Stack**    
-- WordPress Website Customization with page builder (Elementor/Brick Builder)
-- Now learning more about **server management**
+My focus: **AI-integrated applications** with financial systems that stay correct under failure.
 
-### 🚀 Tech Stack  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
+## 🧠 What I Do Well
 
-### 📫 Connect with me  
-- Instagram: [@kikytongky](#)  
-- GitHub: [@kikytongky](#)
-- Email: [tongkytongky07@gmail.com](#)
+**AI & LLM Integration**
+Provider-agnostic architectures, automatic fallback, cost monitoring, structured output validation. I build AI systems that degrade gracefully — not ones that silently break.
 
-<!---
-kikitongky/kikitongky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Payment & Billing Systems**
+Append-only financial ledgers, idempotent webhook processing, atomic credit mutations, audit trails. Patterns borrowed from fintech, applied to SaaS.
+
+**SaaS Architecture**
+End-to-end: schema design → API layer → frontend → production. I think about failure modes before writing the first line of code.
+
+---
+
+## 🛠️ Stack
+
+```
+Frontend    Next.js · React · TypeScript · Tailwind · Shadcn/ui
+Backend     Next.js API Routes · Prisma · Supabase PostgreSQL  
+AI          OpenAI · Google Gemini · provider-agnostic routing
+Auth        Supabase Auth · OTP (Email + SMS)
+Payment     Ledger-integrated billing · Webhook processing
+Infra       Vercel · Sentry · Resend
+```
+
+---
+
+## 🚀 Currently Building
+
+### [Sastra-Metrik](https://sastrametrik.site)
+AI-powered computational stylistics platform for Indonesian literary texts.
+The first platform of its kind — analyzing poetry and prose with structural + hermeneutic AI pipeline.
+
+*What's under the hood:*
+- Append-only credit ledger with drift detection
+- Provider-agnostic AI (Gemini + OpenAI auto-fallback)
+- Idempotent payment processing
+- Role-based admin system with full audit trail
+
+→ [Architecture docs](https://github.com/[username]/sastrametrik-architecture)
+→ [Live product](https://sastrametrik.site)
+
+---
+
+## 💡 How I Work
+
+I use **AI-assisted development** as an execution layer —
+not as a replacement for architectural thinking.
+
+```
+I design the system.
+AI executes the boilerplate.
+The result: senior-level architecture at indie shipping speed.
+```
+
+Core principle I code by:
+> *"Financial correctness > feature speed > code elegance"*
+
+---
+
+## 📍 Currently
+
+- 🔨 Building **Sastra-Metrik** — indie, bootstrapped
+- 🌏 Open for **freelance projects** — AI integration, SaaS, billing systems
+- 📍 Depok, Indonesia · UTC+7
+
+---
+
+## 📫 Reach Me
+
+- 🌐 [sastrametrik.site](https://sastrametrik.site)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01792e3aa9d34db86e)
+- 📧 [tongkytongky07@gmail.com]
