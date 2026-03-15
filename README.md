@@ -44,7 +44,7 @@ The first platform of its kind — analyzing poetry and prose with structural + 
 - Idempotent payment processing
 - Role-based admin system with full audit trail
 
-→ [Architecture docs](https://github.com/[username]/sastrametrik-architecture)
+→ [Architecture docs](https://github.com/kikitongky/Sastrametrik-architecture)
 → [Live product](https://sastrametrik.site)
 
 ---
