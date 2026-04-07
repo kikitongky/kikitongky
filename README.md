@@ -1,6 +1,6 @@
-# Hi, I'm Rizky 👋
+# Hi, I'm tongky 👋
 
-I build production-grade SaaS — from architecture to deployment.
+I build SaaS product — from architecture to deployment.
 
 My focus: **AI-integrated applications** with financial systems that stay correct under failure.
 
