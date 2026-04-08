@@ -1,11 +1,11 @@
-👋 Hi, I'm Tongky
+# 👋 Hi, I'm Tongky
 
 Autonomous Systems Orchestrator | AI-Driven Software Engineering
 
 
 ---
 
-🧠 About Me
+## 🧠 About Me
 
 I design and orchestrate AI-based engineering systems that automate the software development lifecycle.
 
@@ -31,7 +31,7 @@ My focus is on creating deterministic, scalable, and production-grade autonomous
 
 ---
 
-⚙️ What I Do
+## ⚙️ What I Do
 
 Build agent-based software engineering pipelines
 
@@ -47,7 +47,7 @@ Implement retry-safe and failure-tolerant systems
 
 ---
 
-🧩 Core Expertise
+## 🧩 Core Expertise
 
 AI-Orchestrated Development Systems
 
@@ -63,7 +63,7 @@ Distributed System Thinking (Idempotency, Retry, Fault Tolerance)
 
 ---
 
-🚀 Current Focus
+## 🚀 Current Focus
 
 Building a fully autonomous software engineering system capable of:
 
@@ -79,14 +79,14 @@ Managing production-ready merge pipelines
 
 ---
 
-📫 Contact
+## 📫 Contact
 
 📧 tongkytongky07@gmail.com
 
 
 ---
 
-🛠️ Tech Direction
+## 🛠️ Tech Direction
 
 Agent-based systems
 
@@ -100,7 +100,7 @@ Autonomous development pipelines
 
 ---
 
-📌 Note
+## 📌 Note
 
 This repository represents ongoing work in AI-driven autonomous software engineering systems.
 
@@ -109,4 +109,4 @@ Expect rapid iteration, experimentation, and evolving architecture.
 
 ---
 
-💡 If you're exploring the future of software development — where systems build systems — you're in the right place.
+>💡 If you're exploring the future of software development — where systems build systems — you're in the right place.
