@@ -1,80 +1,112 @@
-# Hi, I'm tongky 👋
+👋 Hi, I'm Tongky
 
-I build SaaS product — from architecture to deployment.
+Autonomous Systems Orchestrator | AI-Driven Software Engineering
 
-My focus: **AI-integrated applications** with financial systems that stay correct under failure.
-
----
-
-## 🧠 What I Do Well
-
-**AI & LLM Integration**
-Provider-agnostic architectures, automatic fallback, cost monitoring, structured output validation. I build AI systems that degrade gracefully — not ones that silently break.
-
-**Payment & Billing Systems**
-Append-only financial ledgers, idempotent webhook processing, atomic credit mutations, audit trails. Patterns borrowed from fintech, applied to SaaS.
-
-**SaaS Architecture**
-End-to-end: schema design → API layer → frontend → production. I think about failure modes before writing the first line of code.
 
 ---
 
-## 🛠️ Stack
+🧠 About Me
 
-```
-Frontend    Next.js · React · TypeScript · Tailwind · Shadcn/ui
-Backend     Next.js API Routes · Prisma · Supabase PostgreSQL  
-AI          OpenAI · Google Gemini · provider-agnostic routing
-Auth        Supabase Auth · OTP (Email + SMS)
-Payment     Ledger-integrated billing · Webhook processing
-Infra       Vercel · Sentry · Resend
-```
+I design and orchestrate AI-based engineering systems that automate the software development lifecycle.
 
----
+Instead of using AI merely as a coding assistant, I build structured pipelines where multiple agents collaborate to:
 
-## 🚀 Currently Building
+Analyze requirements
 
-### [Sastra-Metrik](https://sastrametrik.site)
-AI-powered computational stylistics platform for Indonesian literary texts.
-The first platform of its kind — analyzing poetry and prose with structural + hermeneutic AI pipeline.
+Design system architecture
 
-*What's under the hood:*
-- Append-only credit ledger with drift detection
-- Provider-agnostic AI (Gemini + OpenAI auto-fallback)
-- Idempotent payment processing
-- Role-based admin system with full audit trail
+Generate GitHub issues
 
-→ [Architecture docs](https://github.com/kikitongky/Sastrametrik-architecture)
-→ [Live product](https://sastrametrik.site)
+Implement features
+
+Review code
+
+Run tests
+
+Manage merge workflows
+
+
+My focus is on creating deterministic, scalable, and production-grade autonomous development systems.
+
 
 ---
 
-## 💡 How I Work
+⚙️ What I Do
 
-I use **AI-assisted development** as an execution layer —
-not as a replacement for architectural thinking.
+Build agent-based software engineering pipelines
 
-```
-I design the system.
-AI executes the boilerplate.
-The result: senior-level architecture at indie shipping speed.
-```
+Design state-driven development workflows
 
-Core principle I code by:
-> *"Financial correctness > feature speed > code elegance"*
+Orchestrate multi-agent collaboration systems
 
----
+Automate GitHub issue → PR → test → merge processes
 
-## 📍 Currently
+Implement retry-safe and failure-tolerant systems
 
-- 🔨 Building **Sastra-Metrik** — indie, bootstrapped
-- 🌏 Open for **freelance projects** — AI integration, SaaS, billing systems
-- 📍 Jakarta, Indonesia · UTC+7
+
 
 ---
 
-## 📫 Reach Me
+🧩 Core Expertise
 
-- 🌐 [sastrametrik.site](https://sastrametrik.site)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01792e3aa9d34db86e?mp_source=share)
-- 📧 [tongkytongky07@gmail.com]
+AI-Orchestrated Development Systems
+
+Software Architecture & System Design
+
+GitHub Workflow Automation
+
+Autonomous Engineering Pipelines
+
+Distributed System Thinking (Idempotency, Retry, Fault Tolerance)
+
+
+
+---
+
+🚀 Current Focus
+
+Building a fully autonomous software engineering system capable of:
+
+Generating structured tasks from ideas
+
+Executing development via AI agents
+
+Validating outputs through automated testing
+
+Managing production-ready merge pipelines
+
+
+
+---
+
+📫 Contact
+
+📧 tongkytongky07@gmail.com
+
+
+---
+
+🛠️ Tech Direction
+
+Agent-based systems
+
+Event-driven workflows
+
+State machine architecture
+
+Autonomous development pipelines
+
+
+
+---
+
+📌 Note
+
+This repository represents ongoing work in AI-driven autonomous software engineering systems.
+
+Expect rapid iteration, experimentation, and evolving architecture.
+
+
+---
+
+💡 If you're exploring the future of software development — where systems build systems — you're in the right place.
